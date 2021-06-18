@@ -1,2 +1,2 @@
 # git_demo
-Demo to show capabilities of git and (a bit) Github
+Demo to show capabilities of git and (a bit) Github.
